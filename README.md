@@ -8,7 +8,7 @@
 
 - 😊 something more about me * *Family 👨‍👩‍👧‍👦 👵👴 🐶, Nature 🌳🌱, Laugh 😁, Learn 📖, Music 🎶, sightseeing 🏔️ 🛵** -
 
-🌱 I am currently learning **Web Developer. Web Development Course at CoderHouse**
+- 🌱 I am currently learning **Web Developer. Web Development Course at CoderHouse**
 
 - 📄 Know about my experiences [Soon](Soon)
 
