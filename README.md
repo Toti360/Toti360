@@ -8,11 +8,11 @@
 
 - 😊 something more about me * *Family 👨‍👩‍👧‍👦 👵👴 🐶, Nature 🌳🌱, Laugh 😁, Learn 📖, Music 🎶, sightseeing 🏔️ 🛵** -
 
-🌱 I am currently learning **Desarrollo web. Curso de Desarrollo web en CoderHouse**
+🌱 I am currently learning **Web Developer. Web Development Course at CoderHouse**
 
-- 📄 Know about my experiences [Pronto](Pronto)
+- 📄 Know about my experiences [Soon](Soon)
 
-- 👨‍💻 All of my projects are available  **Pronto**
+- 👨‍💻 All of my projects are available  **Soon**
 
 <h3 align="left">connect with me:</h3>
 <p align="left" >
